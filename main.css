@@ -17,11 +17,11 @@ pre {
   margin: 0 0 10px;
   font-size: 13px;
   line-height: 1.42857143;
-  color: #333;
+  color: #8c0188;
   word-break: break-all;
   word-wrap: break-word;
   background-color: #f5f5f5;
-  border: 1px solid #ccc;
+  border: 1px solid #9eb89f;
   border-radius: 4px;
 }
 pre code {
@@ -71,7 +71,7 @@ label {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #333;
+  color: #8c0188;
   text-decoration: none;
 }
 .btn:active,
@@ -95,26 +95,26 @@ fieldset[disabled] a.btn {
   pointer-events: none;
 }
 .btn-default {
-  color: #333;
+  color: #8c0188;
   background-color: #fff;
-  border-color: #ccc;
+  border-color: #9eb89f;
 }
 .btn-default:focus,
 .btn-default.focus {
-  color: #333;
-  background-color: #e6e6e6;
+  color: #8c0188;
+  background-color:  #8C489F;
   border-color: #8c8c8c;
 }
 .btn-default:hover {
-  color: #333;
+  color: #8c0188;
   background-color: #e6e6e6;
   border-color: #adadad;
 }
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #333;
-  background-color: #e6e6e6;
+  color: #8c0188;
+  background-color:  #8C489F;
   border-color: #adadad;
 }
 .btn-default:active:hover,
@@ -126,7 +126,7 @@ fieldset[disabled] a.btn {
 .btn-default:active.focus,
 .btn-default.active.focus,
 .open > .dropdown-toggle.btn-default.focus {
-  color: #333;
+  color: #8c0188;
   background-color: #d4d4d4;
   border-color: #8c8c8c;
 }
@@ -145,11 +145,11 @@ fieldset[disabled] .btn-default:focus,
 .btn-default[disabled].focus,
 fieldset[disabled] .btn-default.focus {
   background-color: #fff;
-  border-color: #ccc;
+  border-color: #9eb89f;
 }
 .btn-default .badge {
   color: #fff;
-  background-color: #333;
+  background-color: #8c0188;
 }
 .btn-primary {
   color: #fff;
@@ -164,15 +164,15 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #286090;
+  background-color:  #8C489F;
   border-color: #204d74;
 }
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: #fff;
-  background-color: #286090;
-  border-color: #204d74;
+  background-color:  #8C489F;
+  border-color: #8c0188;
 }
 .btn-primary:active:hover,
 .btn-primary.active:hover,
@@ -184,7 +184,7 @@ fieldset[disabled] .btn-default.focus {
 .btn-primary.active.focus,
 .open > .dropdown-toggle.btn-primary.focus {
   color: #fff;
-  background-color: #204d74;
+  background-color:  #8C489F;
   border-color: #122b40;
 }
 .btn-primary:active,
@@ -201,12 +201,12 @@ fieldset[disabled] .btn-primary:focus,
 .btn-primary.disabled.focus,
 .btn-primary[disabled].focus,
 fieldset[disabled] .btn-primary.focus {
-  background-color: #337ab7;
+  background-color:  #8C489F;
   border-color: #2e6da4;
 }
 .btn-primary .badge {
-  color: #337ab7;
-  background-color: #fff;
+  color:  #8C489F;
+  background-color: #F1F0FF;
 }
 .btn-success {
   color: #fff;
@@ -241,8 +241,8 @@ fieldset[disabled] .btn-primary.focus {
 .btn-success.active.focus,
 .open > .dropdown-toggle.btn-success.focus {
   color: #fff;
-  background-color: #398439;
-  border-color: #255625;
+  background-color:  #443266;
+  border-color: #443266;
 }
 .btn-success:active,
 .btn-success.active,
@@ -267,7 +267,7 @@ fieldset[disabled] .btn-success.focus {
 }
 .btn-info {
   color: #fff;
-  background-color: #5bc0de;
+  background-color: #C3C3E5;
   border-color: #46b8da;
 }
 .btn-info:focus,
@@ -520,7 +520,7 @@ fieldset[disabled] .btn-link:focus {
   background-color: #fff;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
-  border: 1px solid #ccc;
+  border: 1px solid #9eb89f;
   border: 1px solid rgba(0, 0, 0, .15);
   border-radius: 4px;
   -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
@@ -542,7 +542,7 @@ fieldset[disabled] .btn-link:focus {
   clear: both;
   font-weight: normal;
   line-height: 1.42857143;
-  color: #333;
+  color: #8c0188;
   white-space: nowrap;
 }
 .dropdown-menu > li > a:hover,
@@ -796,7 +796,7 @@ fieldset[disabled] .btn-link:focus {
 }
 .breadcrumb > li + li:before {
   padding: 0 5px;
-  color: #ccc;
+  color: #9eb89f;
   content: "/\00a0";
 }
 .breadcrumb > .active {
